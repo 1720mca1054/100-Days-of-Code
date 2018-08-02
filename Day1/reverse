@@ -1,0 +1,10 @@
+echo enter any number
+read n
+sum = 0
+while [ $n -gt 0 ]
+do
+rem=`expr $n \% 10`
+sum=`expr $ sum \* 10 + $rem`
+n=`expr $n / 10`
+done
+echo reverse number is $sum
