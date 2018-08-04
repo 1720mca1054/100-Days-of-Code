@@ -1,0 +1,10 @@
+print(2)
+print(.365)
+print(-136.6)
+print(25/2)
+print(3*4+5)
+print(3*(4+5))
+print(98%3)
+
+my_fav=7
+print(str(my_fav)+" is my favorite number")
