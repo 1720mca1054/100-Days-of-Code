@@ -1,0 +1,13 @@
+from math import *
+num = 10
+num_2 = -8
+print(abs(num_2))
+print(pow(num, 2))
+print(max(2,3,-9,9))
+print(min(2,3,-9,9))
+print(round(2.6))
+print(round(2.7))
+print(round(2.3))
+print(sqrt(144))
+print(floor(3.6))
+print(ceil(3.6))
