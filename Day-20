@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  	<link rel="icon" href="img/fevicon.JPG" type="image/jpg" sizes="16x16">
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Neeraj | Resume</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+ 
+
+ <div class="container">
+ 	<div class="page-header">
+  		<h1 style="text-align: center;">Resume</h1>
+  	</div>
+
+<div class="row">
+
+  <div class="col-md-8">
+  	<h1>Neeraj Kumar Maurya</h1>
+  	<h3>neeraj.1720mca1054@kiet.edu</h3>
+  	<h4>+91 9807755250</h4>
+  	<h5>I have worked in few live projects. That gave me a kick to do more in web development. I am working on Machine Learning these days.</h5>
+  	<a href="github.com/1720mca1054/"><img src="img/github.png" height="30pt" width="30pt"></a>
+  	<a href="https://www.linkedin.com/in/neeraj-maurya-119425156/"><img src="img/linkedin.png" height="20pt" width="20pt">
+  </div></a>
+  <div class="col-md-offset-9">
+  	<img src="img/neeraj.JPG" class="img-circle" alt="Neeraj" width="224" height="236">
+  </div>
+</div>
+ <hr>
+ <h2>Education</h2>
+ <table class="table table-striped">
+		<tr>
+			<th>Name</th>
+			<th>Board/University</th>
+			<th>Major</th>
+			<th>Percentage</th>
+		</tr>
+		<tr>
+			<td>B.Sc(2017)</td>
+			<td>SHUATS, Allahabad</td>
+			<td>CS</td>
+			<td>69</td>
+		</tr>
+		<tr>
+			<td>Intermediate(2013)</td>
+			<td>U.P Board</td>
+			<td>PCM</td>
+			<td>84</td>
+		</tr>
+		<tr>
+			<td>Maitrik(2011)</td>
+			<td>U.P Board</td>
+			<td>Science</td>
+			<td>78</td>
+		</tr>
+		<tr>
+			<td>MCA(2020)</td>
+			<td>AKTU</td>
+			<td>Computer Science</td>
+			<td>Pursuing</td>
+		</tr>
+		
+	</table>
+	<hr>
+	<h2>Projects</h2>
+	<table class="table table-striped">
+		<tr>
+			<th>Project Type</th>
+			<th>Project Name</th>
+			<th>Project URL</th>
+			<th>Status</th>
+		</tr>
+		<tr>
+			<td>Website</td>
+			<td>DN College, Meerut</td>
+			<td><mark><a href="http://dncollege.net/" target="blank">http://dncollege.net/</a></mark></td>
+			<td style="color: green;">Completed</td>
+		</tr>
+		<tr>
+			<td>Website</td>
+			<td>EDR Group, Gzb</td>
+			<td><mark><a href="http://edr-group.com/" target="blank">http://edr-group.com/</a></mark></td>
+			<td style="color: green;">Completed</td>
+		</tr>
+		<tr>
+			<td>Website</td>
+			<td>CIPA, Delhi</td>
+			<td><mark><a href="http://cipa.co.in/" target="blank">http://cipa.co.in/</a></mark></td>
+			<td style="color: red;">Under Process</td>
+		</tr>
+	</table>
+<div><hr>
+	
+	<div class="col-md-4">
+		<h2>Technical Skills</h2>
+	<ul class="list-group">
+		<li class="list-group-item">HTML,CSS</li>
+		<li class="list-group-item">Php</li>
+		<li class="list-group-item">Angular</li>
+		<li class="list-group-item">C Programming</li>
+	</ul>
+	</div>
+</div>
+<div class="col-md-4 col-md-offset-0">
+		<h2>Achivements</h2>
+		<ul class="list-group">
+		<li class="list-group-item">1st Place in Web Development in MCA Department</li>
+		<li class="list-group-item">Title of WebMaster</li>
+		<li class="list-group-item">Best Poster Presentaion in INNOTECH 2K17</li>
+		<li class="list-group-item">3rd place in JAM(Just a minute)</li>
+	</ul>
+</div>
+<div class="col-md-4 col-md-offset-0">
+	<h2>Professional Cources</h2>
+	<ul class="list-group">
+		<li class="list-group-item">CEPT</li>
+		<li class="list-group-item">NPTEL Data Structure Certificate</li>
+		<li class="list-group-item">.NET + Sql server Certificate</li>
+		
+	</ul>
+</div>
+</div>
+  
+    
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>
