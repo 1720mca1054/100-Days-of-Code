@@ -7,5 +7,7 @@ while temp > 0:
     temp//=10
 if sum==x:
     print("Number is armstrong",sum)
+    
+    
 else:
     print("Number is not armstrong",sum) 
