@@ -10,4 +10,5 @@ if sum==x:
 else:
     
     
+    
     print("Number is not armstrong",sum) 
