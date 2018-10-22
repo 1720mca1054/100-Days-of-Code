@@ -9,7 +9,7 @@ for i in range(0,len(a)):
             temp=a[j]
             a[j]=a[j+1]
             a[j+1]=temp 
-print('Second largest number is:',a[n-2])
+print('Second largest number is :',a[n-2])
 
 
 # output:
