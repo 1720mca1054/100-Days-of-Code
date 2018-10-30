@@ -9,3 +9,4 @@ if sum==x:
     print("Number is armstrong",sum)
 else:
     print("Number is not armstrong",sum) 
+    
