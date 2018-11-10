@@ -12,6 +12,7 @@ else:
     print(y," is not palindrome")
 
 
+    
 # output:
 
 # Enter any number 121
