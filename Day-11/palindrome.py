@@ -13,7 +13,7 @@ else:
 
 
     
-# output:
+#output:
 
 # Enter any number 121
 # 121  is palindrome
