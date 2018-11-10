@@ -1,4 +1,4 @@
-x=int(input("Enter any number "))
+x=int(input("Enter any number"))
 temp=x
 rem=0
 y=0
