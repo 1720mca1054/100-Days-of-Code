@@ -5,6 +5,7 @@ y=0
 while temp > 0:
     rem=temp%10
     y=(y*10)+rem
+    
     temp //=10
 if y==x:
     print(y," is palindrome")
