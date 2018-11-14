@@ -9,6 +9,7 @@ while temp > 0:
 if y==x:
     print(y," is palindrome")
 else:
+    
     print(y," is not palindrome")
 
 
