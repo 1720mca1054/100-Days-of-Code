@@ -8,8 +8,7 @@ while temp > 0:
     
     temp //=10
 if y==x:
-    
-    
+     
     print(y," is palindrome")
     
 else:
