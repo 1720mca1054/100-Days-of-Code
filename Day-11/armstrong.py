@@ -8,5 +8,5 @@ while temp > 0:
 if sum==x:
     print("Number is armstrong",sum)
 else:
-    print("Number is not armstrong",sum) 
+    print("Number  is not armstrong",sum) 
     
