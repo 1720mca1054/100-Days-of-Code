@@ -13,6 +13,5 @@ else:
    print("It is not palindrome")
 
 # output:
-
 # Enter any string=asdfdsa
 # It is palindrome
