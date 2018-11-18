@@ -2,7 +2,6 @@ my_str = input("Enter any string=")
 
 # make it suitable for caseless comparison
 my_str = my_str.casefold()
-
 # reverse the string
 rev_str = reversed(my_str)
 
