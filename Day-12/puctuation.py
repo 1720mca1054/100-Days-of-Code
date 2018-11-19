@@ -12,5 +12,6 @@ print(no_punct)
 
 # output:
 
+
 # Enter a string: qwerty!asdfg
 # qwertyasdfg
