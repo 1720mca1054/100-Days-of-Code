@@ -7,6 +7,7 @@ while temp > 0:
     y=(y*10)+rem
     
     temp //=10
+    
 if y==x:
   
      
