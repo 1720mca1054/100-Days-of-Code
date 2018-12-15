@@ -2,7 +2,7 @@ print("Enter 'x' for exit")
 num = input("Enter any number: ")
 if num == 'x':
     exit()
-try:
+try: 
     number = int(num)
 except ValueError:
     print("Please, enter a number....")
