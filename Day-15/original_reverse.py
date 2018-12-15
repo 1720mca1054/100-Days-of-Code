@@ -1,4 +1,4 @@
-print("Enter 'x' for exit.")
+print("Enter 'x' for exit")
 num = input("Enter any number: ")
 if num == 'x':
     exit()
