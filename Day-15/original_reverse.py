@@ -5,7 +5,7 @@ if num == 'x':
 try:
     number = int(num)
 except ValueError:
-    print("Please, enter a number...")
+    print("Please, enter a number....")
 else:
     orig = number
     rev = 0
